@@ -1,3 +1,6 @@
+
+// Name: Anika Islam | ID: 2220151
+
 function submitMessage(event) {
     event.preventDefault();
     const name = document.getElementById("name").value;

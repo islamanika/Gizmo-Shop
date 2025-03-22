@@ -1,4 +1,6 @@
 
+/* Name: Anika Islam | ID: 2220151 */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -52,21 +54,6 @@ nav ul li a:hover {
     margin-bottom: 20px; 
 }
 
-/* .btn {
-    display: inline-block;
-    background: #ff6600;
-    color: white;
-    padding: 10px 20px;
-    margin-top: 15px;
-    text-decoration: none;
-    border-radius: 5px;
-    cursor: pointer;
-    text-align: center; 
-}
-
-.btn:hover {
-    background: #cc5500;
-} */
 
 /* Trending Products */
 .product img {
