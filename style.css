@@ -251,7 +251,7 @@ input, textarea {
     border: 1px solid #ddd;
     border-radius: 4px;
     font-size: 16px;
-    color: antiquewhite;
+   
     
 
 }
@@ -278,15 +278,3 @@ img {
 }
 
 
-button#goHomeButton {
-    background-color: #008CBA;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    margin-top: 10px;
-}
-
-button#goHomeButton:hover {
-    background-color: #007B9A;
-}
