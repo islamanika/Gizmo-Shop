@@ -213,3 +213,80 @@ ol li::marker {
     background-color: #45a049;
     transform: scale(1.05);
 }
+
+
+
+/* Contact page */
+
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    color: antiquewhite;
+}
+
+.contact-info {
+    flex: 1;
+    padding: 10px;
+}
+
+.contact-form {
+    flex: 1;
+    padding: 10px;
+    border-left: 2px solid #ddd;
+}
+
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-size: 16px;
+    color: antiquewhite;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    color: antiquewhite;
+    
+
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+
+img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+
+button#goHomeButton {
+    background-color: #008CBA;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button#goHomeButton:hover {
+    background-color: #007B9A;
+}
