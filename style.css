@@ -78,10 +78,12 @@ nav ul li a:hover {
 
 .trending h2 {
     text-align: center;
+    color: antiquewhite;
     border-bottom: 3px solid #ff6600;
-    width: 50%;
+    width: 70%;
     margin: 0 auto;
-    padding-bottom: 5px;
+    padding-bottom: 22px;
+    padding-top: 30px;
 }
 
 .product-list {
@@ -128,5 +130,19 @@ ol li::marker {
     margin-bottom: 10px;     
 }
 
+
+/* Product Section */
+.product-section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.product-section h2 {
+    text-align: center;
+    border-bottom: 3px solid #ff6600;
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 5px;
+}
 
 
